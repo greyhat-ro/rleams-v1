@@ -1,6 +1,6 @@
 /* ---- Config: paste your free Supabase project values to go live. Leave blank for demo mode. ---- */
-const SUPABASE_URL = "";
-const SUPABASE_ANON_KEY = "";
+const SUPABASE_URL = "https://ydvqryfochhebjldylpy.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_4-nGIn23s4MVu1Nv17tUmA__vHyeMi2";
 
 const CATS = ["Robot arm","Mobile robot","Sensor","Controller","Electronics","Tool","3D printer","Other"];
 const LIVE = !!(SUPABASE_URL && SUPABASE_ANON_KEY && window.supabase);
